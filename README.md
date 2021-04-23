@@ -8,3 +8,5 @@ Features coinflip, cardgame and dicegame!
 Jogo de azar em Python 3.9
 
 Possui cara ou coroa, jogo de carta e jogo de dados!
+
+ablublu
